@@ -200,7 +200,7 @@ screenshots/Ticket-009-Investigate-Event-Viewer-Logs/
 
 ---
 
-### Ticket 014 -_ PowerShell Administration
+### Ticket 014 – PowerShell Administration
 
 Used PowerShell to retrieve local users, local groups, and administrator group membership.
 
@@ -222,7 +222,7 @@ screenshots/Ticket-014-PowerShell-Adminitration/
 
 ---
 
-### Ticket 015 -- Network Diagnostics
+### Ticket 015 – Network Diagnostics
 
 Performed basic network troubleshooting using Command Prompt. 
 
