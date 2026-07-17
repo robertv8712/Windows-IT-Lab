@@ -77,7 +77,7 @@ The lab was built using a Windows 11 Pro virtual machine in Oracle VirtualBox an
 
 | Component | Details |
 | ----------------|-----------|
-| Host Operating System | Details |
+| Host Operating System | Windows 11 |
 | Guest Operating System | Windows 11 Pro |
 | Virtualization Software | Oracle VirtualBox |
 | Memory | 4096 MB |
