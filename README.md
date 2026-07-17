@@ -104,7 +104,7 @@ The lab was built using a Windows 11 Pro virtual machine in Oracle VirtualBox an
 
 ---
 
-### Help Desk Tickets Competed
+### Help Desk Tickets Completed
 
 | Ticket | Description | Status |
 | -------- | --------------- | :-------: |
