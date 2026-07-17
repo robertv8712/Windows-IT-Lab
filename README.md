@@ -279,12 +279,12 @@ Windows-IT-Lab/
 ├── .gitignore
 │
 ├── screenshots/
-│     ├── Ticket-001-Local-User-Creation/
-│     ├── Ticket-002-Password-Reset/
-│     ├── …
-│     └── Ticket-017-Windows-Update/
-│
-└── docs/
+    ├── Ticket-001-Local-User-Creation/
+    ├── Ticket-002-Password-Reset/
+    ├── Ticket-003-Disable-Enable-User-Account/
+    ├── …
+    └── Ticket-017-Windows-Update/
+
 ```
 
 ---
