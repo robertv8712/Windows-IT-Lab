@@ -26,7 +26,9 @@ The lab focused on user account management, file permissions, networking, troubl
 
 | Setting | Value |
 |---------|-------|
-| Guest OS | Windows 11 Pro |
+| Guest Operating System | Windows 11 Pro |
+| Host Operating System | Windows 11 |
+| Virtualization Software | Oracle VirtualBox |
 | Memory | 4096 MB | 
 | Processors | 2 |
 | Graphics Controller | VBoxSVGA |
