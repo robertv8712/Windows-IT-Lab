@@ -149,6 +149,8 @@ These included:
 Detailed troubleshooting steps and resolutions are documented in 
 **TROUBLESHOOTING.md**.
 
+---
+
 ## Skills Gained
 
 Through this project, I gained practical experience with:
