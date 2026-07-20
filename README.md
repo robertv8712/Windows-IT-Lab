@@ -17,10 +17,10 @@ The goal of this lab was to strengthen the technical skills commonly required fo
 - [Help Desk Tickets Completed](#help-desk-tickets-completed)
 - [Lab Walkthrough](#lab-walkthrough)
 - [Project Structure](#project-structure)
-- [Commands Used](#commands-used)
 - [Learning Outcomes](#learning-outcomes)
 - [Future Improvements](#future-improvements)
 - [Acknowledgements](#acknowledgements)
+- [License](#license)
 
 ---
 
@@ -289,29 +289,6 @@ Windows-IT-Lab/
 
 ---
 
-## Commands Used
-
-### PowerShell
-
-```powershell
-Get-LocalUser
-Get-LocalGroup
-Get-LocalGroupMember Administrators
-```
-
-### Command Prompt
-
-```cmd
-hostname 
-whoami 
-ipconfig 
-ping google.com
-tracert google.com
-nslookup google.com
-```
-
----
-
 ## Learning Outcomes
 
 This project strengthened my practical experience with Windows administration by completing common Help Desk tasks in a virtual environment. I gained experience with user account management, permissions, PowerShell, networking, troubleshooting, and documenting technical work in a structured and repeatable way. 
@@ -333,7 +310,7 @@ Future enhancements for this lab include:
 
 ## Acknowledgements
 
-This project was created as part of my personal IT portfolio to develop practical Windows administration skills and prepare for entry-level IT Support and Help Desk positions. 
+This project was completed to strengthen my practical Windows administration skills while building a portfolio that demonstrates my preparation for entry-level IT Support and Help Desk roles. 
 
 ---
 
