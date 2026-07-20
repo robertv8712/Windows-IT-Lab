@@ -5,10 +5,11 @@
 | Item | Details |
 | ------ | --------- |
 | Project | Windows IT Support Lab |
+| Purpose | Practice Windows administration and Help Desk tasks |
+| Project Type | Personal IT Support Lab |
 | Host Operating System | Windows 11 |
 | Guest Operating System | Windows 11 Pro |
 | Virtualization Software | Oracle VirtualBox |
-| Project Type | Personal IT Support Lab |
 | Documentation | README.md, LAB-NOTES.md, TROUBLESHOOTING.md |
 
 ---
